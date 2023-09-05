@@ -1,7 +1,7 @@
 <h1 align="center">BarberPRO</h1>
 <h1 align="center">Sobre o projeto</h1>
 <h3 align="left">Projeto desenvolvido do zero, tanto a sua API, backend, front-end, utlizando o Javascript, Typescript, NextJS, Postgre e Prisma.
-<h3>Sistema desenvolvido para barbearias, aonde é possivél criar criar acessos, criar categorias, modelos de cortes e se quiser usufruir 100%, é necessário fazer a assinatura da categoria premium, já que na opção gratuita, o mesmo só pode cadastrar 3 tipos de modelos por cada acesso da barbearia</h3>
+<h3>Sistema desenvolvido para barbearias, aonde é possível criar criar acessos, criar categorias, modelos de cortes e se quiser usufruir 100%, é necessário fazer a assinatura da categoria premium, já que na opção gratuita, o mesmo só pode cadastrar 3 tipos de modelos por cada acesso da barbearia</h3>
 </h3>
 <hr/><br/>
 
